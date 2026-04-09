@@ -1147,13 +1147,13 @@
   ),
   'Category' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/Category.php',
     'type' => 'class',
     'override' => false,
   ),
   'CategoryController' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/controller/front/CategoryController.php',
     'type' => 'class',
     'override' => false,
   ),

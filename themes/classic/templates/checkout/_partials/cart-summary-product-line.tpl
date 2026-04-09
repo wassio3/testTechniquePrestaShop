@@ -29,6 +29,11 @@
     </a>
   </div>
   <div class="media-body">
+    {if isset($product.deepest_subcategory) && $product.deepest_subcategory neq ''}
+      <div class="product-line-info text-muted">
+        <small>{$product.deepest_subcategory}</small>
+      </div>
+    {/if}
     <span class="product-name">{$product.name}</span>
     <span class="product-quantity">x{$product.quantity}</span>
     <span class="product-price float-xs-right">{$product.price}</span>

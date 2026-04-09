@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2026-04-09 11:57:23
+/* Smarty version 3.1.33, created on 2026-04-09 12:22:26
   from 'C:\wamp64\www\prestashop\testTechniquePrestaShop\modules\ps_faviconnotificationbo\views\templates\hook\faviconbo.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_69d7780352abc3_81945875',
+  'unifunc' => 'content_69d77de2eb7881_51142229',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_69d7780352abc3_81945875 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69d77de2eb7881_51142229 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">
 /*

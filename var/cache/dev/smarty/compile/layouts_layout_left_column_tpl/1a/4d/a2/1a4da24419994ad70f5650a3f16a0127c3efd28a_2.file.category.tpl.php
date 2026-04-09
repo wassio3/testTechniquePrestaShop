@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2026-04-09 15:42:11
+/* Smarty version 3.1.33, created on 2026-04-09 16:08:02
   from 'C:\wamp64\www\prestashop\testTechniquePrestaShop\themes\classic\templates\catalog\listing\category.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_69d7acb3241026_59280588',
+  'unifunc' => 'content_69d7b2c29a6fb3_84162698',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,25 +21,25 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:catalog/_partials/category-header.tpl' => 1,
   ),
 ),false)) {
-function content_69d7acb3241026_59280588 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69d7b2c29a6fb3_84162698 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_loadInheritance();
 $_smarty_tpl->inheritance->init($_smarty_tpl, true);
 ?>
 
 
 <?php 
-$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_119565906969d7acb323c080_14853585', 'product_list_header');
+$_smarty_tpl->inheritance->instanceBlock($_smarty_tpl, 'Block_115125040969d7b2c299fc42_06527981', 'product_list_header');
 ?>
 
 <?php $_smarty_tpl->inheritance->endChild($_smarty_tpl, 'catalog/listing/product-list.tpl');
 }
 /* {block 'product_list_header'} */
-class Block_119565906969d7acb323c080_14853585 extends Smarty_Internal_Block
+class Block_115125040969d7b2c299fc42_06527981 extends Smarty_Internal_Block
 {
 public $subBlocks = array (
   'product_list_header' => 
   array (
-    0 => 'Block_119565906969d7acb323c080_14853585',
+    0 => 'Block_115125040969d7b2c299fc42_06527981',
   ),
 );
 public function callBlock(Smarty_Internal_Template $_smarty_tpl) {

@@ -2,3 +2,13 @@
  * Custom code goes here.
  * A template should always ship with an empty custom.css
  */
+#_desktop_top_menu .top-menu .sub-menu.collapse {
+    top: 75px !important;
+}
+
+#_desktop_top_menu .top-menu .sub-menu.collapse::before {
+    position: absolute;
+    top: -55px;
+    width: 100%;
+    height: 75px;
+} 

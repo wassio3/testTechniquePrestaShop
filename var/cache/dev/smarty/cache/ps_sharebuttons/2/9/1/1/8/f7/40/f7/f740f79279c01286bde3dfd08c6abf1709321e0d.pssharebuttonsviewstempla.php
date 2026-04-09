@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2026-04-09 12:21:48
+/* Smarty version 3.1.33, created on 2026-04-09 15:02:34
   from 'module:pssharebuttonsviewstempla' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_69d77dbcf25390_48384976',
+  'unifunc' => 'content_69d7a36acc3963_84663454',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,7 +18,9 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_69d77dbcf25390_48384976 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69d7a36acc3963_84663454 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->smarty->ext->_tplFunction->registerTplFunctions($_smarty_tpl, array (
+));
 ?><!-- begin C:\wamp64\www\prestashop\testTechniquePrestaShop/themes/classic/modules/ps_sharebuttons/views/templates/hook/ps_sharebuttons.tpl -->
 
       <div class="social-sharing">

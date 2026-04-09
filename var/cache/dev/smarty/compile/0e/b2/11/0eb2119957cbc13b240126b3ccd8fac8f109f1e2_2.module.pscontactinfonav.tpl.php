@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2026-04-09 12:22:10
+/* Smarty version 3.1.33, created on 2026-04-09 15:02:32
   from 'module:pscontactinfonav.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_69d77dd2d2f6b6_85382627',
+  'unifunc' => 'content_69d7a3684224e1_17590491',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_69d77dd2d2f6b6_85382627 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69d7a3684224e1_17590491 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- begin C:\wamp64\www\prestashop\testTechniquePrestaShop/themes/classic/modules/ps_contactinfo/nav.tpl --><div id="_desktop_contact_link">
   <div id="contact-link">
     <?php if ($_smarty_tpl->tpl_vars['contact_infos']->value['phone']) {?>

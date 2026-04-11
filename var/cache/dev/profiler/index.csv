@@ -1,2 +1,4 @@
-06d9d9,::1,GET,http://localhost/prestashop/testTechniquePrestaShop/admin2960kjr0n/index.php/configure/advanced/performance/?_token=lA-2ohLGPhxs-eijKkpLmrzGHN-HL7kY4GiTQzZ-MHs,1775743670,,200
-973e76,::1,POST,http://localhost/prestashop/testTechniquePrestaShop/admin2960kjr0n/index.php/common/notifications?_token=lA-2ohLGPhxs-eijKkpLmrzGHN-HL7kY4GiTQzZ-MHs&rand=1775743671371,1775743672,,200
+e83311,::1,GET,http://localhost/prestashop/testTechniquePrestaShop/admin2960kjr0n/index.php/configure/advanced/performance/?_token=nr_a9_1tpHdVq6iMojmk1jdKj8uR6XiEF6FfDZ7y4eM,1775950053,,200
+43fae1,::1,POST,http://localhost/prestashop/testTechniquePrestaShop/admin2960kjr0n/index.php/common/notifications?_token=nr_a9_1tpHdVq6iMojmk1jdKj8uR6XiEF6FfDZ7y4eM&rand=1775950055723,1775950056,,200
+37a1ef,::1,POST,http://localhost/prestashop/testTechniquePrestaShop/admin2960kjr0n/index.php/common/notifications?_token=nr_a9_1tpHdVq6iMojmk1jdKj8uR6XiEF6FfDZ7y4eM&rand=1775950178030,1775950189,,200
+fbbfe7,::1,POST,http://localhost/prestashop/testTechniquePrestaShop/admin2960kjr0n/index.php/common/notifications?_token=nr_a9_1tpHdVq6iMojmk1jdKj8uR6XiEF6FfDZ7y4eM&rand=1775950312035,1775950313,,200

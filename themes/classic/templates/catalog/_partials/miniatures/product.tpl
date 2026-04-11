@@ -122,10 +122,10 @@
                   aria-label="{$variant.name|escape:'html':'UTF-8'}"
                 >
                   <span
-                    class="color-swatch rounded"
-                    style="background-color:{$variant.color};"
-                    title="{$variant.name|escape:'html':'UTF-8'}"
-                  ></span>
+  class="color-swatch rounded"
+  style="background-color:{if isset($variant.color)}{$variant.color}{else}#ffffff{/if};"
+  title="{$variant.name|escape:'html':'UTF-8'}"
+></span>
                 </a>
               {/foreach}
             </div>
